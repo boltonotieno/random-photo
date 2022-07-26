@@ -1,0 +1,7 @@
+# XcodeGen
+RandomPhoto.xcodeproj
+RandomPhoto.xcworkspace/*
+
+# Track shared template header
+!RandomPhoto.xcworkspace/xcshareddata
+RandomPhoto.xcworkspace/xcshareddata/*
